@@ -18,7 +18,7 @@ Quando o programa é iniciado, o usuário é apresentado ao Menu Principal, que 
 
 ## 🏗️ Estrutura
 
-O projeto deve seguir a seguinte estrutura de diretórios:
+O projeto segue a seguinte estrutura de diretórios:
 ```
 projeto/
 │
@@ -42,15 +42,15 @@ projeto/
 ├── shell.txt
 ```
 
-- A pasta <i>include</i> deve conter todos os arquivos de cabeçalhos (.h) e a pasta <i>src</i> deve conter todos os arquivos de implementação (.cpp).
+- A pasta <i>include</i> contém todos os arquivos de cabeçalhos (.h) e a pasta <i>src</i> contém todos os arquivos de implementação (.cpp).
 - O arquivo <i>shell.txt</i> é um arquivo que contém a linha de comando para compilar e executar o programa usando o compilador g++.
 
 ## 👨‍💻 Clonando o projeto
 
-Para instalar o projeto:
+Para clonar o projeto:
 
 ```
-git clone https://github.com/naferrett/college-management-system.git
+git clone https://github.com/Lucas-Mta/College-Management-System.git
 ```
 
 ## ☕ Usando o projeto
