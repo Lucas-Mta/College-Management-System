@@ -1,10 +1,6 @@
 # College Management System
 Esse repositório contém o trabalho final da disciplina de Programação Orientada a Objetos na UNICAMP.
 
-
-![image](https://github.com/naferrett/college-management-system/assets/133066462/666b1dd8-5568-463f-92c2-73fd3948ae38)
-
-
 ## 🎯 Objetivo
 
 Desenvolver um sistema de gerenciamento escolar em C++ para agregar os conteúdos previstos para a disciplina.
